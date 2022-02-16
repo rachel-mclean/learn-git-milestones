@@ -9,11 +9,6 @@ Below is a list of tasks. By mid-semester, everyone should...
 - Be able to do the task
 - Make it clear through your actions you understand each concept
 
-| Stretch/Untouched | ProbDistribution | Accuracy |
-| --- | --- | --- |
-| Stretched | Gaussian | .843 |
-
-
 
 ## Contents
 
@@ -267,7 +262,7 @@ Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji |🥰
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/rachel-mclean/learn-git-milestones/commit/86b9b891ef4d44c2f40893f7fc03909790d31882)
-1c | Link to markdown tables docs |
+1c | Link to markdown tables docs | [markdown tables tutorial](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |
 2b | Link to `commit #2 from Github Desktop` |
