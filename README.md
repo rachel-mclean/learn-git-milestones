@@ -266,7 +266,7 @@ Item # | Description | Completed
 1d | What does `log` do? | Log shows a history of your commits, including the messages accompanying each commit.
 2a | 2nd Favorite emoji | 💛
 2b | Link to `commit #2 from Github Desktop` | [commit #2 link](https://github.com/rachel-mclean/learn-git-milestones/commit/0dfaa33eb73a7f482fd612f68f518fcd8f1e2f39)
-2c | Full path to your working directory |
+2c | Full path to your working directory | /Users/rachel/physical_computing/learn-git-milestones
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
