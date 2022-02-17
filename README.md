@@ -288,4 +288,4 @@ Here are some popular tutorials/guides. You should **still look for other ones t
 
 ## Credits
 
-Thanks to [Jesse Farmer](https://github.com/jfarmer) for inspiring this milestone assignment.
+Thanks to [Jesse Farmer](https://github.com/jfarmer) for inspiring this milestone assignment. 
