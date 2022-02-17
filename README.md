@@ -274,6 +274,14 @@ Item # | Description | Completed
 4a | Link to `my-awesome-project` github.io "project site" | [link to git.io site](https://rachel-mclean.github.io/my-awesome-project/)
 ... | ... | Total: 0/12
 
+Markdown | HTML | Rendered Output
+--- | --- | ---
+`[link](https://davidson.edu)` | `<a href="https://davidson.edu">link</a>` | [link](https://davidson.edu)
+`**bold text**` | `<b>bold text</b>` | **bold text**
+`*italicized text*` | `<i>italicized text</i>` | *italicized text*
+<code>\`code`</code> | `<code>code</code>` | `code`
+`![text](assets/img/icon.png)` | `<img alt="text" src="assets/img/icon.png">` | ![text](assets/img/icon.png)
+
 
 
 
