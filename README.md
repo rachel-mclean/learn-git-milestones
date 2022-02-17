@@ -267,7 +267,7 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | 💛
 2b | Link to `commit #2 from Github Desktop` | [commit #2 link](https://github.com/rachel-mclean/learn-git-milestones/commit/0dfaa33eb73a7f482fd612f68f518fcd8f1e2f39)
 2c | Full path to your working directory |/Users/rachel/physical_computing/learn-git-milestones  
-2d | Link to `commit #3 from CLI` | https://github.com/rachel-mclean/learn-git-milestones/commit/81ea22fbc95c5900d37f070cf01e768d85eb47f3
+2d | Link to `commit #3 from CLI` | [commit #3 link](https://github.com/rachel-mclean/learn-git-milestones/commit/81ea22fbc95c5900d37f070cf01e768d85eb47f3)
 2e | 3rd Favorite emoji | 🌸
 2f | Link to `commit #4 from Atom` | [commit #4 link](https://github.com/rachel-mclean/learn-git-milestones/commit/ef7bf509284cd5d7ce08f448f91c251a8f9048ba)
 3a | Link to `my-awesome-project` github.com repo page | [link to repo](https://github.com/rachel-mclean/my-awesome-project)
