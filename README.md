@@ -259,8 +259,8 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 ## Completions
 
 Item # | Description | Completed
---- | --- | ---
 
+--- | --- | ---
 1a | 1st Favorite emoji |🥰
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/rachel-mclean/learn-git-milestones/commit/86b9b891ef4d44c2f40893f7fc03909790d31882)
 1c | Link to markdown tables docs | [markdown tables tutorial](https://www.markdownguide.org/extended-syntax/)
