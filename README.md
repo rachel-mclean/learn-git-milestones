@@ -271,7 +271,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 🌸
 2f | Link to `commit #4 from Atom` | [commit #4 link](https://github.com/rachel-mclean/learn-git-milestones/commit/ef7bf509284cd5d7ce08f448f91c251a8f9048ba)
 3a | Link to `my-awesome-project` github.com repo page | [link to repo](https://github.com/rachel-mclean/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | [link to git.io site]https://rachel-mclean.github.io/my-awesome-project/
 ... | ... | Total: 0/12
 
 
